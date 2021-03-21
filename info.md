@@ -33,7 +33,7 @@ With the exploit written in python so I downloaded the code, also read what it d
 
 _python2 cve-2019-9053.py -u http://10.10.237.53/simple/ -w rockyou.txt -c_
 
-And after some minutes it was done and found the user *mitch* and its password *secret* 
+And after some minutes it was done and found the user *mitch* and its password
 
 Right after having this information we ssh'ed into the machine and got the first flag on the user's home directory
 
