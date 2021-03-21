@@ -37,8 +37,6 @@ And after some minutes it was done and found the user *mitch* and its password *
 
 Right after having this information we ssh'ed into the machine and got the first flag on the user's home directory
 
-_G00d j0b, keep up!_
-
 
 I kept investigating a bit more in the machine but the mitch user was banned from running sudo su to get root access
 
@@ -63,7 +61,6 @@ _:shell_
 and so we got our shell to check the user we were running the sh shell, so i run id to check that indeed we were root
 so after having a shell as root we pwned the machine so it was time to get that flag
 
-_W3ll d0n3. You made it!_
 
 I hope this write up was useful and enterntaining and I hope you liked it :)
 
