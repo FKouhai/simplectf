@@ -1,5 +1,7 @@
 Welcome to my first write up its about the Try Hack Me box _Simple CTF_
 
+https://www.tryhackme.com/room/easyctf
+
 I want to start by saying im a novice in the CTF environment, so any comment about how to improve my craft will be appretiated, also im gonna use the IP that was given to me for claritie's sake
 
 
